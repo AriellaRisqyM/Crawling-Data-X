@@ -79,4 +79,3 @@ tweet-harvest: Alat untuk melakukan crawling data dari Twitter.
 
 Pandas: Untuk pemrosesan data (meskipun tidak secara eksplisit digunakan untuk manipulasi di skrip ini).
 
-Dibuat dengan ❤️ untuk kemudahan analisis data.
